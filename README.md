@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aditya Sood</h1>
 <h3 align="center">Electrical Engineering student at NIT Hamirpur</h3>
-<h4 align="center">🌱 I’m currently learning **Android Development**</h3>
+<h4 align="center"> I’m currently learning Android Development</h3>
 
 <p align="center">
   <img width="32%" height="155px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasood04&hide_border=true&theme=tokyonight" alt="adityasood04"/>
