@@ -9,7 +9,7 @@
   <img width="32%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasood04&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="adityasood04" />
 </p>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=adityasood04&theme=gotham&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=adityasood04&theme=gotham&hide_border=true&area=true) -->
 </div> 
 
 <p align="center">
@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adityasood04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adityasood04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aditya-sood-630189225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sood-630189225" height="30" width="40" /></a>
+<a href="https://twitter.com/adityasood04" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98453503/207036709-adc5902c-fb53-4578-9284-120d282ac4ad.png" alt="adityasood04" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya-sood-630189225" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98453503/207036929-bbab03a0-889d-4e81-aed9-617ee7af09a9.png" alt="aditya-sood-630189225" height="30" width="40" /></a>
 </p>
 
 <hr>
@@ -36,5 +36,9 @@
 <hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasood04&label=Viewers&color=0036d6&style=plastic" alt="adityasood04" /> </p>
+
+
+
+
 
 
