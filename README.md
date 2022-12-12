@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adityasood04" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98453503/207036709-adc5902c-fb53-4578-9284-120d282ac4ad.png" alt="adityasood04" height="30" width="40" /></a>
+<a href="https://twitter.com/adityasood04" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98453503/207037308-2ead2ecd-bbcd-492d-a844-be490f5ceb78.png" alt="adityasood04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-sood-630189225" target="blank"><img align="center" src="https://user-images.githubusercontent.com/98453503/207036929-bbab03a0-889d-4e81-aed9-617ee7af09a9.png" alt="aditya-sood-630189225" height="30" width="40" /></a>
 </p>
 
@@ -36,6 +36,7 @@
 <hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adityasood04&label=Viewers&color=0036d6&style=plastic" alt="adityasood04" /> </p>
+
 
 
 
