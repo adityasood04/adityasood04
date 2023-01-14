@@ -35,13 +35,6 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasood04&show_icons=true&locale=en&layout=compact" alt="adityasood04" /></p>
-<p align="left">
-  <img width="32%" height="155px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasood04&hide_border=true&theme=tokyonight" alt="adityasood04"/>
-  <img width="32%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasood04&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="adityasood04" />
-</p>
-
-
 
 
 
