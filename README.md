@@ -9,7 +9,7 @@
   <img width="32%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasood04&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="adityasood04" />
 </p>
 
-<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=adityasood04&theme=gotham&hide_border=true&area=true) -->
+![Contribution](https://activity-graph.herokuapp.com/graph?username=adityasood04&theme=gotham&hide_border=true&area=true)
 </div> 
 
 <p align="center">
@@ -35,9 +35,8 @@
 
 
 <hr>
+
 [![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityasood04&hide_border=true&theme=tokyo-night)](https://github.com/adityasood04)
-
-
 
 
 
