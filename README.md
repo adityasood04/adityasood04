@@ -33,8 +33,9 @@
 
 </p>
 
-<hr>
 
+<hr>
+[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityasood04&hide_border=true&theme=tokyo-night)](https://github.com/adityasood04)
 
 
 
