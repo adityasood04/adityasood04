@@ -44,13 +44,14 @@
 <p align="center">
 </p>
 <hr>
-
-[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityasood04&hide_border=true&theme=tokyo-night)](https://github.com/adityasood04)
-
-       
+<!-- 
+[![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityasood04&hide_border=true&theme=tokyo-night)](https://github.com/adityasood04) -->
+  
+<img src = "https://komarev.com/ghpvc/?username=adityasood04"/> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
-</p>
+</p>  
+
 
 
 
