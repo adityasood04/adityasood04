@@ -40,6 +40,7 @@
    <img width="32%"height="155px" src="https://github-readme-stats.vercel.app/api?username=adityasood04&show_icons=true&hide_border=true&theme=tokyonight" alt="adityasood04"/>
  
 </p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasood04&theme=react-dark&hide_border=true" />
 </div> 
 <p align="center">
 </p>
