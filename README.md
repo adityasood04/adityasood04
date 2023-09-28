@@ -1,5 +1,9 @@
 
 ![cropped](https://user-images.githubusercontent.com/98453503/230014488-4ff614d7-a507-47c6-bdf7-ecf35cc1691f.gif)
+<p align = "center">
+  
+<img src = "https://komarev.com/ghpvc/?username=adityasood04"/>
+</p> 
 <h2 align="center">I'm Aditya Sood</h1>
 <h4 align="center">Electrical Engineering student at NIT Hamirpur</h3>
 <h4 align="center"> I’m currently learning Android Development</h3>
@@ -33,11 +37,13 @@
 
 
 <hr>
-
 <p align="center">
-   <img width="35%" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasood04&hide_border=true&theme=tokyonight&layout=compact&hide_border=true" alt="adityasood04" />
-  <img width="32%" height="155px" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasood04&hide_border=true&theme=tokyonight" alt="adityasood04"/>
-   <img width="32%"height="155px" src="https://github-readme-stats.vercel.app/api?username=adityasood04&show_icons=true&hide_border=true&theme=tokyonight" alt="adityasood04"/>
+  <p align="center">
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityasood04&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityasood04&theme=tokyonight" />
+</p>
  
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasood04&theme=react-dark&hide_border=true" />
@@ -48,7 +54,6 @@
 <!-- 
 [![Aditya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=adityasood04&hide_border=true&theme=tokyo-night)](https://github.com/adityasood04) -->
   
-<img src = "https://komarev.com/ghpvc/?username=adityasood04"/> 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
 </p>  
