@@ -6,7 +6,7 @@
 </p> 
 <h2 align="center">I'm Aditya Sood</h1>
 <h4 align="center">Electrical Engineering student at NIT Hamirpur</h3>
-<h4 align="center"> I’m currently learning Android Development</h3>
+<h4 align="center"> I’m currently learning Android and Backend Development</h3>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,12 +16,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/github-%23F05033.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-
+![Postman](https://img.shields.io/badge/postman-%23FF9A00.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 
 
@@ -35,17 +36,16 @@
 </p>  
 
 
-
 <hr>
 <p align="center">
   <p align="center">
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityasood04&theme=tokyonight" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityasood04&theme=tokyonight" />
+  <img src = "https://github-readme-stats.vercel.app/api?username=adityasood04&show_icons=true&theme=tokyonight&hide_border=true" width = "33%">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityasood04&theme=tokyonight&hide_progress=true" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com?user=adityasood04&theme=tokyonight&hide_border=true" />
 </p>
  
 </p>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasood04&theme=react-dark&hide_border=true" />
 </div> 
 <p align="center">
