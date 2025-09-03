@@ -12,8 +12,8 @@
 
 - Electrical Engineering graduate from **NIT Hamirpur**  
 - Experienced in **Android app development** using Kotlin, Jetpack Compose, and Firebase  
-- Comfortable with **Backend Development** using **Node.js**, **Express**, and **MongoDB**  
-- Currently learning **Kotlin Multiplatform (KMP)** and exploring a bit of **Machine Learning**  
+- Comfortable with **Backend Development** using **Spring Boot**, **Node.js**, **Express** 
+- Currently learning **DevOps**
 - I also write beginner-friendly tech blogs on **Medium**
 
 ---
@@ -23,8 +23,9 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring](https://img.shields.io/badge/spring%20boot-%2300599C.svg?style=for-the-badge&logo=spring%20boot&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=node&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%23404d59.svg?style=for-the-badge&logo=nodejs&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
