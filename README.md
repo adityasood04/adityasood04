@@ -12,7 +12,7 @@
 
 - Electrical Engineering graduate from **NIT Hamirpur**  
 - Experienced in **Android app development** using Kotlin, Jetpack Compose, and Firebase  
-- Comfortable with **Backend Development** using **Spring Boot**, **Node.js**, **Express** 
+- Comfortable with **Backend Development** using **Spring Boot**, **Node.js**, **Express.js** 
 - Currently learning **DevOps**
 - I also write beginner-friendly tech blogs on **Medium**
 
